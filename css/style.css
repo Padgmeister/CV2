@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Be Vietnam', sans-serif;
+}
+h1{
+	font-size: 5.60rem;
+	line-height: 2;
+	margin-top: 0;
+	font-family: 'Merienda', cursive;
+	color: #66BFBF;
+}
+h2{
+	font-size: 2.50rem;
+	margin-top: 0;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #66BFBF;
+}
+h3{
+	font-size: 2.50rem;
+	margin-top: 0;
+	font-family: 'Montserrat Alternates', sans-serif;
+	color: #11999E;
+}
+
+.top-container{
+	background-color: #f1e3cb;
+	font-weight: normal;
+	position: relative;
+	padding-top: 100px;
+
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 300px;
+	bottom: 300px;
+}
+
+
+.footer-link{
+
+	text-anchor: #11999E;
+}
+
+.skill-row{
+
+	width: 50%
+}
